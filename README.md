@@ -7,7 +7,7 @@ Hello guys!
 
 - 🔭 I’m currently working on itTv 💻
 - 🌱 I’m currently learning Software Development
--     I have been learning more about Python
+- 🐍 I have been learning more about Python
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/igor-terriaga-949996168/" target="_blank">
