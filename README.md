@@ -31,6 +31,6 @@ Hello guys!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorTerriaga&show_icons=true&theme=react)
 
 ## Most commonly used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTerriaga)](https://github.com/IgorTerriaga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTerriaga&layout=compact)](https://github.com/IgorTerriaga/github-readme-stats)
 
 
