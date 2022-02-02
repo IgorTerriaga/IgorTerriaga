@@ -6,7 +6,7 @@
 Hello guys!
 
 - 🔭 I’m currently working on itTv 💻
-- 🌱 I’m currently learning about Ansible and automation with Python
+- 🌱 I’m currently learning about ReactJS, NodeJs and Python
 - 🐍 I have been learning more about NodeJS and Python
 
 ## Connect with me:
