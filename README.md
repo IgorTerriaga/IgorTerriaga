@@ -5,8 +5,8 @@
 
 Hello guys!
 
-- 🔭 I’m currently working on itTv 💻
-- 🌱 I’m currently learning about ReactJS, NodeJs and Python
+- 🔭 I’m currently working on Grupo Nexxes 💻
+- 🌱 I’m currently learning about Angular, NodeJs and Python
 - 🐍 I have been learning more about NodeJS and Python
 
 ## Connect with me:
