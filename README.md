@@ -14,7 +14,7 @@ Hello guys!
 ## My skills are
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,angular,ts,django,js,nodejs,nestjs,vitest,yarn,linux,postgres,aws,bash,git,gitlab,docker,kafka," />
+    <img src="https://skillicons.dev/icons?i=html,css,py,angular,ts,django,js,nodejs,nestjs,vitest,yarn,linux,postgres,aws,bash,git,gitlab,docker,rabbitmq" />
   </a>
 </p>
 
