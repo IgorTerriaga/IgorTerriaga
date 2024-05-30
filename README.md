@@ -4,7 +4,7 @@
 **IgorTerriaga/IgorTerriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hello guys!
-- 🌱 I’m currently learning about Angular, Vue 3, NodeJs and Python
+- 🌱 I’m currently learning about Angular, NodeJs and Python
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/igor-terriaga-949996168/" target="_blank">
